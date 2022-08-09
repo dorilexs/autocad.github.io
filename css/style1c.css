@@ -12,3 +12,15 @@
     width: 100%;
     height: auto;
 }
+.C-009{
+    margin: 0 auto;
+    display: flex;
+}
+.C-010{
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+}
+.C-011{
+    margin: 0 auto;
+}
