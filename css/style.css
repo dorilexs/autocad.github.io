@@ -842,9 +842,10 @@ figure.effect-marley:hover p {
 .action {
   overflow: visible;
   padding: 0px;
-  width: 100;
+  max-width: 1170px;
   background: #f2f2f2;
   position: relative;
+  margin: 0px auto;
 }
 .action .left-text {
   padding: 70px 0;
