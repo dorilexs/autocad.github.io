@@ -884,6 +884,9 @@ figure.effect-marley:hover p {
 	position:relative;
 	margin-top:-20px;
 	margin-bottom:40px;
+  width: 100%;
+  max-height: 50vh;
+  overflow: hidden;
 }
 
 .map iframe{
@@ -919,14 +922,14 @@ figure.effect-marley:hover p {
 
 .contact-page .contact-form 
 .form-group label {
-  color: #4E4E4E;
+  color: #000000;
   font-size: 16px;
   font-weight: 300;
 }
 
 .form-group .form-control {
   padding: 7px 12px;
-  border-color:#f2f2f2;
+  border-color: #ffa5f8;
   box-shadow: none;
   border-radius:0;
 }
