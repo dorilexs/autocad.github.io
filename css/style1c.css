@@ -32,14 +32,14 @@
     width: 100%;
 }
 
-@media(max-width: 485px){
+@media(max-width: 460px){
     .C-014{
-        width: 485px;
+        width: 460px;
         height: auto;
         overflow-x: hidden;
     }
     .C-009{
-        width: 485px;
+        width: 460px;
         height: auto;
         overflow-x: hidden;
     }
