@@ -20,13 +20,28 @@
     margin: 0 auto;
     align-items: center;
     display: flex;
+    flex-wrap: wrap;
 }
 .C-011{
     margin: 0 auto;
 }
 .C-012{
     display: flex;
-  }
-  .C-013{
+}
+.C-013{
     width: 100%;
-  }
+}
+
+@media(max-width: 500px){
+    .C-014{
+        width: 500px;
+        height: auto;
+        overflow-x: hidden;
+    }
+    .C-009{
+        width: 500px;
+        height: auto;
+        overflow-x: hidden;
+    }
+}
+
