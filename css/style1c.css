@@ -129,6 +129,9 @@
 .C-024none{
     display: none;
 }
+.C-024fondo{
+    background-color: #feffd0;
+}
 .C-025{
     width: 350px;
     height: 100px;
@@ -145,6 +148,9 @@
     padding-left: 15px;
     margin: 0 auto;
 }
+.C-026chat{
+    background-image: none;
+}
 .C-026-messenger{
     background-color: #3dd6fc;
     width: 335px;
@@ -158,6 +164,12 @@
     height: 150px;
     /* background-color: #aef59d; */
     display: flex;
+}
+.C-026-1chat{
+    width: 305px;
+    height: 250px;
+    /* background-color: #aef59d; */
+    background-image: none;
 }
 .C-026-12{
     width: 12px;
@@ -253,4 +265,16 @@
 .C-030-1 i{
     font-size: 60px;
     margin: -15px 0 0 -15px;
+}
+.C-033{
+    width: 100%;
+    margin-top: 5px;
+    color: #000000;
+}
+.C-033-mensaje{
+    height: 130px;
+}
+.C-034{
+    margin: 0 0 0 120px;
+    color: #000000;
 }
