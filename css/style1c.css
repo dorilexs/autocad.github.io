@@ -145,6 +145,14 @@
     padding-left: 15px;
     margin: 0 auto;
 }
+.C-026-messenger{
+    background-color: #3dd6fc;
+    width: 335px;
+    height: 200px;
+    padding-top: 25px;
+    padding-left: 15px;
+    margin: 0 auto;
+}
 .C-026-1{
     width: 250px;
     height: 150px;
@@ -187,6 +195,9 @@
     font-weight: 700;
     font-size: 17px;
     border-radius: 20px;
+}
+.C-027-1-messenger{
+    background-color: #2899da;
 }
 .C-028{
     width: 60px;
