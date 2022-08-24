@@ -130,8 +130,8 @@ a:hover {
 }
 
 .navbar-default {
-	background-color: #65AAF0;
-	border-color:#65AAF0;
+	background-color: #8d02ff;
+	border-color:#8d02ff;
 }
 
 /*===========================
@@ -995,7 +995,7 @@ textarea#message{
 ============================ */
 footer {
 	padding:50px;
-	background:#65AAF0;
+	background:#8d02ff;
 }
 
 footer p {
