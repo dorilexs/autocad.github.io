@@ -278,3 +278,14 @@
     margin: 0 0 0 120px;
     color: #000000;
 }
+
+
+/* estrictamente de la galeria estrictamente de la galeria estrictamente de la galeria */
+.C-040{
+    height: 600px;
+    max-width: 1170px;
+    min-width: 460px;
+    background-color: #f9fdb9;
+    margin: 0 auto;
+    color: #000000;
+}
