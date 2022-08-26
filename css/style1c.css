@@ -326,6 +326,36 @@
     /* align-items: center;
     justify-content: center; */
 }
+.C-042-1img2{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ Autodesk\ Revit.jpg);
+}
+.C-042-1img3{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ InDesign\ CC\ para\ Diseñadores\,\ Dec…y\ Arquitectos.jpg);
+}
+.C-042-1img4{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ Autocad.jpg);
+}
+.C-042-1img5{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ Enscape.png);
+}
+.C-042-1img6{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ 3ds\ Max.png);
+}
+.C-042-1img7{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/curso\ photoshop.jpg);
+}
+.C-042-1img8{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ VRay\ Next\ para\ SketchUp.jpg);
+}
+.C-042-1img9{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Master\ Arquitectura\ de\ Interiores.jpg);
+}
+.C-042-1img10{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Master\ Diseño\ Grafico.jpg);
+}
+.C-042-1img11{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Arquitectura\ Ecológica\,\ Sostenible\ y\ Bioclimática.JPG);
+}
 .C-042-12{
     width: 100%;
     height: auto;
@@ -404,6 +434,7 @@
     font-size: 15px;
     font-weight: 600;
     color: #000000;
+    margin: auto;
 }
 .C-042-3{
     width: 100%;
@@ -422,7 +453,7 @@
     /* background-color: #db8f63; */
 }
 .C-042-4-11{
-    width: 100px;
+    max-width: 70%;
     height: 25px;
     /* background-color: #8363db; */
     border: 1px solid #ffff00;
@@ -432,20 +463,22 @@
     display: flex;
 }
 .C-042-4-12{
-    width: 50px;
+    width: auto;
     height: 25px;
     /* background-color: #63db81; */
 
     display: flex;
     text-align: center;
+    margin: 0 auto;
 }
 .C-042-4-13{
-    width: 50px;
+    width: auto;
     height: 25px;
     /* background-color: #63db81; */
 
     display: flex;
     text-align: center;
+    margin: 0 auto;
 }
 .C-042-4-14{
     margin: 0 auto;
