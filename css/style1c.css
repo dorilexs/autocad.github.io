@@ -583,14 +583,15 @@
 /* de abaut */
 
 .C-046{
-    max-width: 50% !important;
+    width: 45% !important;
     display: flex;
     height: 100% !important;
 }
 .C-047{
-    max-width: 100%;
-    margin: auto;
-    text-align: center
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    height: auto;
 }
 
 
