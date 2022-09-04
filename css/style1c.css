@@ -578,6 +578,22 @@
     height: 40px;
     background-color: #ff0000;
 } */
+
+
+/* de abaut */
+
+.C-046{
+    max-width: 50% !important;
+    display: flex;
+    height: 100% !important;
+}
+.C-047{
+    max-width: 100%;
+    margin: auto;
+    text-align: center
+}
+
+
 @media(max-width: 1290px){
     .C-043{
         position: fixed;
@@ -597,3 +613,5 @@
         width: 190px;
     }
 }
+
+
