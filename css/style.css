@@ -225,6 +225,17 @@ a:hover {
 	background:#65AAF0;
   line-height: 30px;
 }
+@media(max-width: 1170px){
+  .fadeInUp h2{
+    font-size: 30px;
+  }
+  .carousel-caption  p {
+    font-size:20px;
+  }
+  .C-001{
+    font-size: 15px !important;
+  }
+}
 @media(max-width: 991px){
   .carousel-caption {
     right: 15%;
@@ -236,7 +247,7 @@ a:hover {
     font-size:40px;
   }
   .carousel-caption  p {
-    font-size:30px;
+    font-size:20px;
     margin-top:30px;
     margin-bottom:20px;
     padding:10px;
@@ -246,14 +257,19 @@ a:hover {
   }
 }
 @media(max-width: 805px){
+  .fadeInUp h2{
+    font-size: 30px;
+  }
   .carousel-caption  p {
-    font-size:20px;
+    font-size:15px;
     margin-top:30px;
     margin-bottom:0px;
     padding:10px;
+    line-height: 1.1;
   }
   .C-001{
     padding: 10px !important;
+    font-size: 15px !important;
   }
   .form-group{
     margin-bottom: 0 !important;
@@ -264,7 +280,7 @@ a:hover {
     display: none;
   }
   .C-001{
-    font-size: 15px !important;
+    font-size: 10px !important;
   }
 }
 .carousel-inner .form-inline .form-group button[type="livedemo"]{
