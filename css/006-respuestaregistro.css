@@ -1,0 +1,503 @@
+.Spadreseccion-006{
+    position: fixed;
+    width: 100vw;
+    /* background-color: #49ff61; */
+    height: 100vh;
+
+    margin: auto;
+    display: flex;
+    transition-property: height, width;
+    transition-duration: 1s;
+}
+.Spadreseccion-006-none{
+    width: 0;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    transition-property: height, width;
+    transition-duration: .5s;
+    overflow: hidden;
+}
+.S1seccion-006{
+    width: 100%;
+    height: auto;
+    /* background-color: #c0dd40; */
+
+    margin: auto;
+}
+.container006{
+    /* background-color: #c95beb; */
+    max-width: 2200px;
+    height: auto;
+    margin: auto;
+
+    padding: 3rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    color: #000000;
+}
+.a001-006{
+    position: relative;
+    width: 33.33%;
+    height: auto;
+    background-color: #a944d1;
+    padding: 2rem;
+    margin: 0 auto;
+
+    border-radius: 2rem;
+    border: .3rem solid #13e269;
+    box-shadow: 0 0 10rem .5rem #ff33f5;
+    transition-property: box-shadow;
+    transition-duration: 1s;
+
+    display: flex;
+}
+.a001-006:hover{
+    box-shadow: 0 0 10rem .5rem #ffffff;
+}
+.a002-006{
+    padding: 2rem;
+    /* background-color: #44ccd1; */
+}
+.a002-006 i{
+    font-size: 8rem;
+    color: #13e269;
+}
+
+.a003-006{
+    width: 100%;
+    /* background-color: #fff; */
+    height: auto;
+
+    padding: 0;
+}
+.a004-006{
+    /* background-color: #20b835; */
+    padding: 0 0 10rem 0;
+    color: #000000;
+}
+.a004-006 p{
+    font-size: 4rem;
+    line-height: 1.3;
+    font-weight: 600;
+    color: #ffffff;
+}
+.a005-006{
+    padding: 0 0 2rem 0;
+    display: flex;
+    color: #8bff9a;
+}
+.a005-006 span{
+    font-size: 2.5rem;
+    margin: auto;
+    text-align: center;
+}
+.a006-006{
+    width: 100%;
+    /* background-color: #540e83; */
+
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.a007-006{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 1rem;
+
+    font-weight: 300;
+    display: flex;
+    text-align: center;
+    font-size: 2rem;
+    padding: 1rem .5rem;
+    color: #000000;
+}
+.a007-006:hover{
+    background-color: #eeeeee;
+    /* max-width: 41%; */
+}
+.a008-006{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 1rem;
+    background-color: #49ff61;
+
+    font-weight: 500;
+    text-align: center;
+    font-size: 2rem;
+    padding: 1rem .5rem;
+}
+.a008-006:hover{
+    background-color: #8bff9a;
+}
+.a009-006{
+    width: auto;
+    height: auto;
+    background-color: #ffffff;
+    position: absolute;
+    border-radius: 1rem;
+    padding: 0.43rem 0.5rem 0.1rem;
+    cursor: pointer;
+
+    right: -1.5rem;
+    top: -1.5rem;
+}
+.a009-006 i{
+    font-size: 6rem;
+    padding: 0;
+    margin: 0;
+    color: #000000;
+    transition-property: font-size, color;
+    transition-duration: .2s;
+}
+.a009-006 i:hover{
+    font-size: 7rem;
+    color: #5de0c0;
+}
+.a009-006 i:active{
+    color: #000000;
+    transition-duration: 0;
+}
+
+
+
+
+/* primer grupo */
+
+@media (max-width: 2470px) {
+    html {
+        font-size: 9px !important;
+    }
+    .container006{
+        max-width: 2070px;
+    }
+}
+@media (max-width: 2370px) {
+    html {
+        font-size: 9px !important;
+    }
+    .container006{
+        max-width: 1970px;
+    }
+}
+@media (max-width: 2270px) {
+    html {
+        font-size: 9px !important;
+    }
+    .container006{
+        max-width: 1870px;
+    }
+}
+@media (max-width: 2170px) {
+    html {
+        font-size: 8px !important;
+    }
+    .container006{
+        max-width: 1770px;
+    }
+}
+@media (max-width: 2070px) {
+    html {
+        font-size: 8px !important;
+    }
+    .container006{
+        max-width: 1670px;
+    }
+}
+@media (max-width: 1970px) {
+    html {
+        font-size: 8px !important;
+    }
+    .container006{
+        max-width: 1570px;
+    }
+}
+
+
+
+
+
+
+/* segundo grupo */
+
+@media (max-width: 1870px) {
+    html {
+        font-size: 7px !important;
+    }
+    .container006{
+        max-width: 1570px;
+    }
+}
+@media (max-width: 1770px) {
+    html {
+        font-size: 7px !important;
+    }
+    .container006{
+        max-width: 1470px;
+    }
+}
+@media (max-width: 1670px) {
+    html {
+        font-size: 7px !important;
+    }
+    .container006{
+        max-width: 1370px;
+    }
+}
+@media (max-width: 1570px) {
+    html {
+        font-size: 6px !important;
+    }
+    .container006{
+        max-width: 1370px;
+    }
+}
+@media (max-width: 1470px) {
+    html {
+        font-size: 6px !important;
+    }
+    .container006{
+        max-width: 1270px;
+    }
+}
+@media (max-width: 1370px) {
+    html {
+        font-size: 6px !important;
+    }
+    .container006{
+        max-width: 1170px;
+    }
+}
+
+
+
+
+
+
+/* tercer grupo */
+
+@media (max-width: 1270px) {
+    html {
+        font-size: 5px !important;
+    }
+    .container006{
+        max-width: 1170px;
+    }
+}
+@media (max-width: 1170px) {
+    html {
+        font-size: 5px !important;
+    }
+    .container006{
+        max-width: 1070px;
+    }
+}
+@media (max-width: 1070px) {
+    html {
+        font-size: 5px !important;
+    }
+    .container006{
+        max-width: 970px;
+    }
+}
+@media (max-width: 970px) {
+    html {
+        font-size: 4px !important;
+    }
+    .container006{
+        max-width: 970px;
+    }
+}
+@media (max-width: 870px) {
+    html {
+        font-size: 4px !important;
+    }
+    .container006{
+        max-width: 870px;
+    }
+}
+@media (max-width: 770px) {
+    html {
+        font-size: 4px !important;
+    }
+    .container006{
+        max-width: 770px;
+    }
+}
+
+
+
+
+
+
+/* cuarto grupo */
+
+@media (max-width: 670px) {
+    html {
+        font-size: 3px !important;
+    }
+    .container006{
+        max-width: 670px;
+    }
+}
+@media (max-width: 570px) {
+    html {
+        font-size: 3px !important;
+    }
+    .container006{
+        max-width: 570px;
+    }
+}
+@media (max-width: 470px) {
+    html {
+        font-size: 3px !important;
+    }
+    .container006{
+        max-width: 470px;
+    }
+    .a001-006{
+        width: 50%;
+    }
+
+}
+@media (max-width: 370px) {
+    html {
+        font-size: 2px !important;
+    }
+    .container006{
+        max-width: 370px;
+    }
+}
+@media (max-width: 270px) {
+    html {
+        font-size: 2px !important;
+    }
+    .container006{
+        max-width: 270px;
+    }
+    .a001-006{
+        width: 100%;
+    }
+}
+@media (max-width: 170px) {
+    html {
+        font-size: 2px !important;
+    }
+    .container006{
+        max-width: 170px;
+    }
+}
+
+
+
+
+
+
+/* quinto grupo */
+
+@media (max-width: 150px) {
+    html {
+        font-size: 1.5px !important;
+    }
+    .container006{
+        max-width: 150px;
+    }
+}
+@media (max-width: 130px) {
+    html {
+        font-size: 1.5px !important;
+    }
+    .container006{
+        max-width: 130px;
+    }
+}
+@media (max-width: 110px) {
+    html {
+        font-size: 1.5px !important;
+    }
+    .container006{
+        max-width: 110px;
+    }
+}
+@media (max-width: 100px) {
+    html {
+        font-size: 1px !important;
+    }
+    .container006{
+        max-width: 100px;
+    }
+}
+@media (max-width: 90px) {
+    html {
+        font-size: 1px !important;
+    }
+    .container006{
+        max-width: 90px;
+    }
+}
+@media (max-width: 80px) {
+    html {
+        font-size: 1px !important;
+    }
+    .container006{
+        max-width: 80px;
+    }
+}
+
+
+
+
+
+
+/* sexto grupo */
+
+@media (max-width: 70px) {
+    html {
+        font-size: 0.5px !important;
+    }
+    .container006{
+        max-width: 70px;
+    }
+}
+@media (max-width: 60px) {
+    html {
+        font-size: 0.5px !important;
+    }
+    .container006{
+        max-width: 60px;
+    }
+}
+@media (max-width: 50px) {
+    html {
+        font-size: 0.5px !important;
+    }
+    .container006{
+        max-width: 50px;
+    }
+}
+@media (max-width: 40px) {
+    html {
+        font-size: 0.1px !important;
+    }
+    .container006{
+        max-width: 40px;
+    }
+}
+@media (max-width: 30px) {
+    html {
+        font-size: 0.1px !important;
+    }
+    .container006{
+        max-width: 30px;
+    }
+}
+@media (max-width: 20px) {
+    html {
+        font-size: 0.1px !important;
+    }
+    .container006{
+        max-width: 20px;
+    }
+}

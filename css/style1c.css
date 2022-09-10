@@ -435,6 +435,7 @@
     font-weight: 600;
     color: #000000;
     margin: auto;
+    line-height: 1.2;
 }
 .C-042-3{
     width: 100%;
@@ -446,6 +447,7 @@
 }
 .C-042-333{
     margin: auto;
+    line-height: 1.5;
 }
 .C-042-4{
     width: 100%;
@@ -506,6 +508,7 @@
     font-size: 12px;
     font-weight: 600;
     line-height: 15px;
+    cursor: pointer;
 
     display: flex;
     text-align: center;
