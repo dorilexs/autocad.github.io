@@ -597,6 +597,9 @@
     text-align: center;
     height: auto;
 }
+/* .C-048{
+    display: none;
+} */
 
 
 @media(max-width: 1290px){
