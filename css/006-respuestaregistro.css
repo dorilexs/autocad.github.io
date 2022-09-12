@@ -161,7 +161,9 @@
     transition-duration: 0;
 }
 
-
+.a001-006nonefull{
+    display: none;
+}
 
 
 /* primer grupo */
@@ -340,6 +342,9 @@
     }
     .container006{
         max-width: 670px;
+    }
+    .a001-006{
+        width: 70%;
     }
 }
 @media (max-width: 570px) {
