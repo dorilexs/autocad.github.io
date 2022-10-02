@@ -1,0 +1,62 @@
+.FS1seccion-002{
+    position: fixed;
+    width: auto;
+    height: auto;
+    /* background-color: #0e76ff; */
+    right: 2rem;
+    bottom: 2rem;
+    z-index: 10;
+}
+.containerF002{
+    width: 13rem;
+    height: 13rem;
+    background-color: #00ff2a;
+    padding: 0 1rem;
+    border-radius: 2rem;
+
+    transition: all 0.5s ease-out; 
+
+    overflow: hidden;
+    display: flex;
+    position: relative;
+}
+.containerF002:hover{
+    width: 60rem;
+    height: 13rem;
+}
+
+.Fa003-002{
+    /* background-color: #d42f2f; */
+    width: 45rem;
+    margin: auto auto auto 0;
+
+    display: flex;
+    padding: 0;
+}
+.Fa003-002 a{
+    display: flex;
+}
+.Fa003-002 span{
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    color: #000000;
+}
+.Fa003-002 span:hover{
+    color: #009bb6;
+}
+
+.Fa002-002{
+    width: 13rem;
+    height: 13rem;
+    margin: auto 0 auto auto;
+    display: flex;
+    background-color: #00ff2a;
+    position: absolute;
+    right: 0;
+}
+.Fa002-002 i{
+    font-size: 10rem;
+    margin: auto;
+    color: #fff;
+}

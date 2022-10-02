@@ -1,0 +1,422 @@
+.S1seccion-017{
+    width: 100%;
+    height: auto;
+    /* background-color: #6a44d1; */
+}
+.container017{
+    /* background-color: #b341e0; */
+    max-width: 2200px;
+    height: auto;
+    margin: 0 auto;
+
+    padding: 3rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.a001-017{
+    width: 50rem;
+    height: 50rem;
+    background-color: #d4d4d4;
+    color: #fff;
+    margin: 0 auto;
+    box-shadow: inset 0 0 2rem 0 #ffffff;
+
+    overflow: hidden;
+    border-radius: 50%;
+    position: relative;
+    margin-bottom: 4rem;
+
+    display: flex;
+}
+.a002-017{
+    width: 50rem;
+    height: 42.5rem;
+    background-color: #0011ff;
+    box-shadow: inset 0 0 2rem 0 #fff;
+
+    position: absolute;
+    bottom: 0;
+}
+.a002-017p2{
+    height: 47.5rem;
+    background-color: #b700ff;
+}
+.a002-017p3{
+    height: 40rem;
+    background-color: #ff0000;
+}
+.a002-017p4{
+    height: 45rem;
+    background-color: #ff9100;
+}
+.a003-017{
+    width: 50rem;
+    height: 50rem;
+    background-color: #44bcd100;
+
+    position: absolute;
+    display: flex;
+}
+.a003-00-017{
+    /* background-color: #ba44d1; */
+    display: inline-block;
+
+    margin: auto;
+}
+.a003-01-017{
+    display: block;
+    font-size: 6rem;
+    font-weight: 700;
+
+    margin: auto;
+    text-align: center;
+}
+.a003-02-017{
+    display: block;
+    font-size: 2.5rem;
+
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+/* primer grupo */
+
+@media (max-width: 2470px) {
+    html {
+        font-size: 9px;
+    }
+    .container017{
+        max-width: 2070px;
+    }
+}
+@media (max-width: 2370px) {
+    html {
+        font-size: 9px;
+    }
+    .container017{
+        max-width: 1970px;
+    }
+}
+@media (max-width: 2270px) {
+    html {
+        font-size: 9px;
+    }
+    .container017{
+        max-width: 1870px;
+    }
+}
+@media (max-width: 2170px) {
+    html {
+        font-size: 8px;
+    }
+    .container017{
+        max-width: 1770px;
+    }
+}
+@media (max-width: 2070px) {
+    html {
+        font-size: 8px;
+    }
+    .container017{
+        max-width: 1670px;
+    }
+}
+@media (max-width: 1970px) {
+    html {
+        font-size: 8px;
+    }
+    .container017{
+        max-width: 1570px;
+    }
+}
+
+
+
+
+
+
+/* segundo grupo */
+
+@media (max-width: 1870px) {
+    html {
+        font-size: 7px;
+    }
+    .container017{
+        max-width: 1570px;
+    }
+}
+@media (max-width: 1770px) {
+    html {
+        font-size: 7px;
+    }
+    .container017{
+        max-width: 1470px;
+    }
+}
+@media (max-width: 1670px) {
+    html {
+        font-size: 7px;
+    }
+    .container017{
+        max-width: 1370px;
+    }
+}
+@media (max-width: 1570px) {
+    html {
+        font-size: 6px;
+    }
+    .container017{
+        max-width: 1370px;
+    }
+}
+@media (max-width: 1470px) {
+    html {
+        font-size: 6px;
+    }
+    .container017{
+        max-width: 1270px;
+    }
+}
+@media (max-width: 1370px) {
+    html {
+        font-size: 6px;
+    }
+    .container017{
+        max-width: 1170px;
+    }
+}
+
+
+
+
+
+
+/* tercer grupo */
+
+@media (max-width: 1270px) {
+    html {
+        font-size: 5px;
+    }
+    .container017{
+        max-width: 1170px;
+    }
+}
+@media (max-width: 1170px) {
+    html {
+        font-size: 5px;
+    }
+    .container017{
+        max-width: 1070px;
+    }
+}
+@media (max-width: 1070px) {
+    html {
+        font-size: 5px;
+    }
+    .container017{
+        max-width: 970px;
+    }
+}
+@media (max-width: 970px) {
+    html {
+        font-size: 4px;
+    }
+    .container017{
+        max-width: 970px;
+    }
+}
+@media (max-width: 870px) {
+    html {
+        font-size: 4px;
+    }
+    .container017{
+        max-width: 870px;
+    }
+}
+@media (max-width: 770px) {
+    html {
+        font-size: 4px;
+    }
+    .container017{
+        max-width: 770px;
+    }
+}
+
+
+
+
+
+
+/* cuarto grupo */
+
+@media (max-width: 670px) {
+    html {
+        font-size: 3px;
+    }
+    .container017{
+        max-width: 670px;
+    }
+}
+@media (max-width: 570px) {
+    html {
+        font-size: 3px;
+    }
+    .container017{
+        max-width: 570px;
+    }
+}
+@media (max-width: 470px) {
+    html {
+        font-size: 3px;
+    }
+    .container017{
+        max-width: 470px;
+    }
+    .a001-014{
+        width: 33.33%;
+    }
+
+}
+@media (max-width: 370px) {
+    html {
+        font-size: 2px;
+    }
+    .container017{
+        max-width: 370px;
+    }
+}
+@media (max-width: 270px) {
+    html {
+        font-size: 2px;
+    }
+    .container017{
+        max-width: 270px;
+    }
+}
+@media (max-width: 170px) {
+    html {
+        font-size: 2px;
+    }
+    .container017{
+        max-width: 170px;
+    }
+}
+
+
+
+
+
+
+/* quinto grupo */
+
+@media (max-width: 150px) {
+    html {
+        font-size: 1.5px;
+    }
+    .container017{
+        max-width: 150px;
+    }
+}
+@media (max-width: 130px) {
+    html {
+        font-size: 1.5px;
+    }
+    .container017{
+        max-width: 130px;
+    }
+}
+@media (max-width: 110px) {
+    html {
+        font-size: 1.5px;
+    }
+    .container017{
+        max-width: 110px;
+    }
+}
+@media (max-width: 100px) {
+    html {
+        font-size: 1px;
+    }
+    .container017{
+        max-width: 100px;
+    }
+}
+@media (max-width: 90px) {
+    html {
+        font-size: 1px;
+    }
+    .container017{
+        max-width: 90px;
+    }
+}
+@media (max-width: 80px) {
+    html {
+        font-size: 1px;
+    }
+    .container017{
+        max-width: 80px;
+    }
+}
+
+
+
+
+
+
+/* sexto grupo */
+
+@media (max-width: 70px) {
+    html {
+        font-size: 0.5px;
+    }
+    .container017{
+        max-width: 70px;
+    }
+}
+@media (max-width: 60px) {
+    html {
+        font-size: 0.5px;
+    }
+    .container017{
+        max-width: 60px;
+    }
+}
+@media (max-width: 50px) {
+    html {
+        font-size: 0.5px;
+    }
+    .container017{
+        max-width: 50px;
+    }
+}
+@media (max-width: 40px) {
+    html {
+        font-size: 0.1px;
+    }
+    .container017{
+        max-width: 40px;
+    }
+}
+@media (max-width: 30px) {
+    html {
+        font-size: 0.1px;
+    }
+    .container017{
+        max-width: 30px;
+    }
+}
+@media (max-width: 20px) {
+    html {
+        font-size: 0.1px;
+    }
+    .container017{
+        max-width: 20px;
+    }
+}

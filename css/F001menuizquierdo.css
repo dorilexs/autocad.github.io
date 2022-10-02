@@ -1,0 +1,530 @@
+.FS1seccion-001{
+    position: fixed;
+    width: auto;
+    height: auto;
+    /* background-color: #16ff0e; */
+    padding: 0;
+    z-index: 1;
+    display: none;
+}
+.FS1seccion-001none{
+    position: fixed;
+    max-width: 600px;
+    height: 100vh;
+    background-color: #faf2ff;
+    background-color: #8222ff;
+    padding: 0;
+    color: #fff;
+}
+.containerF001{
+    width: 100%;
+    /* background-color: #fff; */
+    height: 100%;
+    padding: 2rem 2rem 0 2rem;
+
+    display: flex;
+    flex-direction: column;
+    /* border-right: .3rem solid #dc2cff; */
+
+    /* transition: all 5s ease; */
+
+    overflow: auto;
+    /* display: none; */
+}
+.containerF001none{
+    display: none;
+}
+.containerF001-001{
+    width: auto;
+    height: auto;
+    /* background-color: #dd6161; */
+    display: inline-block;
+
+    padding: 1rem;
+}
+.containerF001-001 i{
+    /* background-color: #ffffff; */
+    border-radius: 2rem;
+    border: 1px solid #000000;
+    box-shadow: 0 0 .5rem 0 #000000;
+    padding: 1rem 2rem;
+    font-size: 8rem;
+}
+.containerF001-001none{
+    display: none;
+}
+.Fa001-001{
+    width: 100%;
+    /* background-color: #44ccd1; */
+    height: auto;
+
+    display: flex;
+    /* display: none; */
+}
+.Fa002-001{
+    width: 100%;
+    /* background-color: #4459d1; */
+    height: auto;
+
+    display: flex;
+    flex-wrap: wrap;
+    /* display: none; */
+}
+.Fa002-01-001{
+    width: auto;
+    /* background-color: #d1cf44; */
+    height: auto;
+
+    margin: 0 1rem auto auto;
+}
+.Fa002-01-001 img{
+    width: 100%;
+    height: auto;
+}
+.Fa002-02-001{
+    width: 100%;
+    height: auto;
+    /* background-color: #44d183; */
+}
+.Fa002-03-001{
+    width: 100%;
+    height: auto;
+    /* background-color: #d15944; */
+    border-bottom: .5rem solid #ffee00;
+    padding: 0 .5rem;
+
+    display: flex;
+}
+.Fa002-03-001 span{
+    font-size: 4rem;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 auto;
+}
+.Fa002-04-001{
+    width: 100%;
+    height: auto;
+    /* background-color: #50d144; */
+
+    display: flex;
+}
+.Fa002-04-001 span{
+    font-size: 3rem;
+    font-weight: 500;
+    text-align: center;
+    margin: 0 auto;
+}
+.Fa003-001{
+    width: 7rem;
+    background-color: #b32eff;
+    height: 7rem;
+    border-radius: 2rem;
+
+    margin: -1.5rem -1.5rem auto auto;
+
+    display: flex;
+    overflow: hidden;
+    /* display: none; */
+}
+.Fa003-001 i{
+    font-size: 7rem;
+    margin: auto;
+}
+.Fa004-001{
+    width: 100%;
+    /* background-color: #d144c5; */
+    height: 100%;
+}
+.Fa005-001{
+    width: 100%;
+    /* background-color: #b48bff; */
+    height: 100%;
+
+    display: flex;
+    flex-wrap: wrap;
+    /* display: none; */
+}
+.Fa005-001 li{
+    width: 100%;
+    /* background-color: #c7f2ff; */
+    height: auto;
+    margin: auto;
+
+    box-shadow: inset 1rem -1rem 2rem 0 #4bfd15, inset .1rem -.5rem .5rem 0 #000000;
+    border-radius: 2rem;
+    cursor: pointer;
+    color: #ffffff;
+
+    display: flex;
+    padding: 1rem 0;
+}
+.divider{
+    background-color: #69cbe9 !important;
+}
+.Fa005-001 li:hover{
+    box-shadow: inset 1rem -1rem 2rem 0 #b0ec22;
+}
+.Fa005-001 li i{
+    font-size: 4rem;
+    background-color: none;
+    margin: auto 0;
+}
+.Fa005-001 li span{
+    background-color: none;
+    font-size: 3rem;
+    font-weight: 700;
+    margin: auto 0 auto 2rem;
+}
+.Fa005-001 li span a{
+    color: #fff;
+}
+
+
+
+.temp{
+    font-size: 2.5rem;
+}
+
+
+
+
+
+
+
+/* primer grupo */
+
+@media (max-width: 2470px) {
+    html {
+        font-size: 9px;
+    }
+    .FS1seccion-001none{
+        max-width: 550px;
+    }
+}
+@media (max-width: 2370px) {
+    html {
+        font-size: 9px;
+    }
+    .FS1seccion-001none{
+        max-width: 500px;
+    }
+}
+@media (max-width: 2270px) {
+    html {
+        font-size: 9px;
+    }
+    .FS1seccion-001none{
+        max-width: 450px;
+    }
+}
+@media (max-width: 2170px) {
+    html {
+        font-size: 8px;
+    }
+    .FS1seccion-001none{
+        max-width: 400px;
+    }
+}
+@media (max-width: 2070px) {
+    html {
+        font-size: 8px;
+    }
+    .FS1seccion-001none{
+        max-width: 390px;
+    }
+}
+@media (max-width: 1970px) {
+    html {
+        font-size: 8px;
+    }
+    .FS1seccion-001none{
+        max-width: 380px;
+    }
+}
+
+
+
+
+
+
+/* segundo grupo */
+
+@media (max-width: 1870px) {
+    html {
+        font-size: 7px;
+    }
+    .FS1seccion-001none{
+        max-width: 370px;
+    }
+}
+@media (max-width: 1770px) {
+    html {
+        font-size: 7px;
+    }
+    .FS1seccion-001none{
+        max-width: 360px;
+    }
+}
+@media (max-width: 1670px) {
+    html {
+        font-size: 7px;
+    }
+    .FS1seccion-001none{
+        max-width: 360px;
+    }
+}
+@media (max-width: 1570px) {
+    html {
+        font-size: 6px;
+    }
+    .FS1seccion-001none{
+        max-width: 350px;
+    }
+}
+@media (max-width: 1470px) {
+    html {
+        font-size: 6px;
+    }
+    .FS1seccion-001none{
+        max-width: 350px;
+    }
+}
+@media (max-width: 1370px) {
+    html {
+        font-size: 6px;
+    }
+    .FS1seccion-001none{
+        max-width: 350px;
+    }
+}
+
+
+
+
+
+
+/* tercer grupo */
+
+@media (max-width: 1270px) {
+    html {
+        font-size: 5px;
+    }
+    .FS1seccion-001none{
+        max-width: 340px;
+    }
+}
+@media (max-width: 1170px) {
+    html {
+        font-size: 5px;
+    }
+    .FS1seccion-001none{
+        max-width: 330px;
+    }
+}
+@media (max-width: 1070px) {
+    html {
+        font-size: 5px;
+    }
+    .FS1seccion-001none{
+        max-width: 320px;
+    }
+}
+@media (max-width: 970px) {
+    html {
+        font-size: 4px;
+    }
+    .FS1seccion-001none{
+        max-width: 310px;
+    }
+}
+@media (max-width: 870px) {
+    html {
+        font-size: 4px;
+    }
+    .FS1seccion-001none{
+        max-width: 300px;
+    }
+    .FS1seccion-001{
+        display: block;
+    }
+}
+@media (max-width: 770px) {
+    html {
+        font-size: 4px;
+    }
+    .FS1seccion-001none{
+        width: 290px;
+    }
+}
+
+
+
+
+
+
+/* cuarto grupo */
+
+@media (max-width: 670px) {
+    html {
+        font-size: 3px;
+    }
+    .FS1seccion-001none{
+        max-width: 280px;
+    }
+}
+@media (max-width: 570px) {
+    html {
+        font-size: 3px;
+    }
+    .FS1seccion-001none{
+        max-width: 270px;
+    }
+    .FS1seccion-001{
+        display: block;
+    }
+}
+@media (max-width: 470px) {
+    html {
+        font-size: 3px;
+    }
+    .FS1seccion-001none{
+        max-width: 80%;
+    }
+
+}
+@media (max-width: 370px) {
+    html {
+        font-size: 2px;
+    }
+    .FS1seccion-001none{
+        max-width: 80%;
+    }
+}
+@media (max-width: 270px) {
+    html {
+        font-size: 2px;
+    }
+    .FS1seccion-001none{
+        max-width: 80%;
+    }
+}
+@media (max-width: 170px) {
+    html {
+        font-size: 2px;
+    }
+    .FS1seccion-001none{
+        max-width: 90%;
+    }
+}
+
+
+
+
+
+
+/* quinto grupo */
+
+@media (max-width: 150px) {
+    html {
+        font-size: 1.5px;
+    }
+    .FS1seccion-001none{
+        max-width: 90%;
+    }
+}
+@media (max-width: 130px) {
+    html {
+        font-size: 1.5px;
+    }
+    .FS1seccion-001none{
+        max-width: 90%;
+    }
+}
+@media (max-width: 110px) {
+    html {
+        font-size: 1.5px;
+    }
+    .FS1seccion-001none{
+        max-width: 90%;
+    }
+}
+@media (max-width: 100px) {
+    html {
+        font-size: 1px;
+    }
+    .FS1seccion-001none{
+        max-width: 90%;
+    }
+}
+@media (max-width: 90px) {
+    html {
+        font-size: 1px;
+    }
+    .FS1seccion-001none{
+        max-width: 95%;
+    }
+}
+@media (max-width: 80px) {
+    html {
+        font-size: 1px;
+    }
+    .FS1seccion-001none{
+        max-width: 95%;
+    }
+}
+
+
+
+
+
+
+/* sexto grupo */
+
+@media (max-width: 70px) {
+    html {
+        font-size: 0.5px;
+    }
+    .FS1seccion-001none{
+        max-width: 95%;
+    }
+}
+@media (max-width: 60px) {
+    html {
+        font-size: 0.5px;
+    }
+    .FS1seccion-001none{
+        max-width: 95%;
+    }
+}
+@media (max-width: 50px) {
+    html {
+        font-size: 0.5px;
+    }
+    .FS1seccion-001none{
+        max-width: 100%;
+    }
+}
+@media (max-width: 40px) {
+    html {
+        font-size: 0.1px;
+    }
+    .FS1seccion-001none{
+        max-width: 100%;
+    }
+}
+@media (max-width: 30px) {
+    html {
+        font-size: 0.1px;
+    }
+    .FS1seccion-001none{
+        max-width: 100%;
+    }
+}
+@media (max-width: 20px) {
+    html {
+        font-size: 0.1px;
+    }
+    .FS1seccion-001none{
+        max-width: 100%;
+    }
+}

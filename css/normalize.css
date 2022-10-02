@@ -91,6 +91,8 @@ div{
 
 a {
   background-color: transparent;
+  list-style: none;
+  text-decoration: none;
 }
 
 /**
