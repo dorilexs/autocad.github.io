@@ -3,9 +3,6 @@
     height: auto;
     /* background-color: #6cd144; */
 }
-.S1seccion-008principalEspacio{
-    padding: 25rem 0 0 0;
-}
 .container008{
     /* background-color: #c95beb; */
     max-width: 2200px;
@@ -23,7 +20,7 @@
     /* background-color: #a981b6; */
 
     display: flex;
-    padding: 2rem 0;
+    padding: 0 0 2rem 0;
 }
 .a001-008 span{
     font-size: 4rem;

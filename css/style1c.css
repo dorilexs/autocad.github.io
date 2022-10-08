@@ -212,7 +212,7 @@
     height: auto;
     margin: 0 auto;
 
-    padding: 3rem 0;
+    padding: 0 0 3rem 0;
     display: flex;
     flex-wrap: wrap;
 }
@@ -221,7 +221,7 @@
     /* background-color: #eb6c6c; */
     width: 25%;
     margin: 0 auto;
-    padding: 2rem;
+    padding: 0 2rem 2rem 2rem;
 
     display: flex;
    
@@ -326,10 +326,17 @@
     background-color: #1fe74a;
     border-radius: 1rem;
     padding: 1rem 2rem;
+    cursor: pointer;
+}
+.C-042-13-131:hover{
+    background-color: #b3ffc3;
 }
 .C-042-13-v1{
     font-size: 4rem;
     color: #ffff00;
+}
+.C-042-13-v1:hover{
+    color: #00ff37;
 }
 
 .C-042-14{

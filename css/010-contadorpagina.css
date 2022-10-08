@@ -26,6 +26,8 @@
     width: 100%;
     height: auto;
     /* background-color: #368586; */
+
+    
 }
 
 .a001-010-01{
@@ -46,10 +48,17 @@
     /* background-color: #9ead46; */
 
     display: flex;
+    filter: invert(0%) sepia(0%) saturate(7466%) hue-rotate(136deg) brightness(109%) contrast(100%) brightness(0) saturate(100%);
+    
 }
-.a001-010-02 span{
+.a001-010-02 a{
     font-size: 4rem;
     font-weight: 700;
+    margin: auto;
+    cursor: default;
+}
+.a001-010-02 img{
+    width: 20rem;
 }
 .a001-010-03{
     width: 100%;

@@ -4,7 +4,7 @@
     /* background-color: #6a44d1; */
 }
 .S1seccion-008principalEspacio{
-    padding: 25rem 0 0 0;
+    padding: 20rem 0 0 0;
 }
 .container011{
     /* background-color: #b341e0; */
@@ -169,6 +169,9 @@
     .container011{
         max-width: 970px;
     }
+    .S1seccion-008principalEspacio{
+        padding: 25rem 0 0 0;
+    }
 }
 @media (max-width: 970px) {
     html {
@@ -187,6 +190,9 @@
     }
     .a001-010{
         width: 50%;
+    }
+    .S1seccion-008principalEspacio{
+        padding: 10rem 0 0 0;
     }
 }
 @media (max-width: 770px) {
